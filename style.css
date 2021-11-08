@@ -18,6 +18,11 @@ a
   padding:10px;
 }
 
+#settingsDiv div
+{
+  margin:10px;
+}
+
 .opened
 {
   box-shadow:rgba(255,255,255,0.8) 0 0 5px;
