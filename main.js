@@ -7379,7 +7379,7 @@ function showFull(index, div)
   }
   let rowBreak=document.createElement('div');
   rowBreak.setAttribute('style', 'flex-basis:100%; height:0;');
-  div.nextElementSibling?div.parentNode.insertBefore(rowBreak, div.nextElementSibling):div.appendChild(rowBreak);
+  div.nextElementSibling?div.parentNode.insertBefore(rowBreak, div.nextElementSibling):div.parentNode.appendChild(rowBreak);
   div.parentNode.insertBefore(rowBreak.cloneNode(), div);
   div.classList.toggle('opened');
 
