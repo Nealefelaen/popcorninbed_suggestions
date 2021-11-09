@@ -2,7 +2,7 @@ let movies=[
 {
   "title": "The Adjustment Bureau",
   "year": "2011",
-  "cover": "https://c2.ptpimg.me/view/a0ab789eb1b8df242fe69944b0ffd306b0de6cb1/https://ptpimg.me/7q8xv4.jpg",
+  "cover": "https://ptpimg.me/7q8xv4.jpg",
   "tags": [
     "romance",
     "thriller",
@@ -70,7 +70,7 @@ let movies=[
 {
   "title": "Brick",
   "year": "2005",
-  "cover": "https://c1.ptpimg.me/view/2f7d9c26bbeea5222e77dd5db71c962b64a7ca9b/https://ptpimg.me/h6i908.jpg",
+  "cover": "https://ptpimg.me/h6i908.jpg",
   "tags": [
     "crime",
     "drama",
@@ -142,7 +142,7 @@ let movies=[
 {
   "title": "For the Birds",
   "year": "2000",
-  "cover": "https://c1.ptpimg.me/view/40a63ae64a52d3e07e5bf146079be307e00a9286/https://ptpimg.me/h6ph0r.jpg",
+  "cover": "https://ptpimg.me/h6ph0r.jpg",
   "tags": [
     "animation",
     "comedy",
@@ -187,7 +187,7 @@ let movies=[
 {
   "title": "BURN-E",
   "year": "2008",
-  "cover": "https://c2.ptpimg.me/view/59d485a479654d97ba62bcb0db3644659b704536/https://ptpimg.me/hs0a17.jpg",
+  "cover": "https://ptpimg.me/hs0a17.jpg",
   "tags": [
     "animation",
     "short",
@@ -250,7 +250,7 @@ let movies=[
 {
   "title": "Deadpool",
   "year": "2016",
-  "cover": "https://c2.ptpimg.me/view/94ee1cbb855a4686a3de1e542b50e1cf5cd4879b/https://ptpimg.me/d5751o.jpg",
+  "cover": "https://ptpimg.me/d5751o.jpg",
   "tags": [
     "action",
     "comedy",
@@ -321,7 +321,7 @@ let movies=[
 {
   "title": "Palm Springs",
   "year": "2020",
-  "cover": "https://c1.ptpimg.me/view/88ce9f6012726b0264cf9b561d94b23bfa8ba872/https://m.media-amazon.com/images/M/MV5BYjk0MTgzMmQtZmY2My00NmE5LWExNGUtYjZkNTA3ZDkyMTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
+  "cover": "https://m.media-amazon.com/images/M/MV5BYjk0MTgzMmQtZmY2My00NmE5LWExNGUtYjZkNTA3ZDkyMTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg",
   "tags": [
     "comedy",
     "romance",
@@ -391,7 +391,7 @@ let movies=[
 {
   "title": "WALL·E",
   "year": "2008",
-  "cover": "https://c2.ptpimg.me/view/c497e12484d50b2d10ce43d5a9cf9d210eda3208/https://ptpimg.me/xe65t1.jpg",
+  "cover": "https://ptpimg.me/xe65t1.jpg",
   "tags": [
     "animation",
     "adventure",
@@ -464,7 +464,7 @@ let movies=[
 {
   "title": "Predestination",
   "year": "2014",
-  "cover": "https://c1.ptpimg.me/view/85ca55ad76043c8bb96b6239ece7f7df1747f3d1/https://ptpimg.me/9rk07w.jpg",
+  "cover": "https://ptpimg.me/9rk07w.jpg",
   "tags": [
     "sci.fi",
     "thriller",
@@ -536,7 +536,7 @@ let movies=[
 {
   "title": "Infinity Chamber",
   "year": "2016",
-  "cover": "https://c1.ptpimg.me/view/b0305adb27088d97527298ad7b9a3936311b45fb/https://images-na.ssl-images-amazon.com/images/M/MV5BNjQwMjAwNTYtZDJjOS00NmUzLWFlOTktYmFhODQzOWIwYjQzXkEyXkFqcGdeQXVyNjM5OTMwNg@@._V1_SY1000_SX675_AL_.jpg",
+  "cover": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjQwMjAwNTYtZDJjOS00NmUzLWFlOTktYmFhODQzOWIwYjQzXkEyXkFqcGdeQXVyNjM5OTMwNg@@._V1_SY1000_SX675_AL_.jpg",
   "tags": [
     "sci.fi",
     "thriller",
@@ -594,7 +594,7 @@ let movies=[
 {
   "title": "Volition",
   "year": "2019",
-  "cover": "https://c2.ptpimg.me/view/386251369934da5305aa20f83a951091dbbf34f7/https://m.media-amazon.com/images/M/MV5BNWQ5NGIxMDUtMzZjNy00NjhmLWJhYzItYTU3MjgzOWM4YzdjXkEyXkFqcGdeQXVyNDk1NDczNjI@._V1_SY1000_SX675_AL_.jpg",
+  "cover": "https://m.media-amazon.com/images/M/MV5BNWQ5NGIxMDUtMzZjNy00NjhmLWJhYzItYTU3MjgzOWM4YzdjXkEyXkFqcGdeQXVyNDk1NDczNjI@._V1_SY1000_SX675_AL_.jpg",
   "tags": [
     "sci.fi",
     "thriller",
@@ -658,7 +658,7 @@ let movies=[
 {
   "title": "Once",
   "year": "2007",
-  "cover": "https://c1.ptpimg.me/view/036034943c195f4bd85f3cb62f0bb7422a7cf631/https://ptpimg.me/3w82zu.jpg",
+  "cover": "https://ptpimg.me/3w82zu.jpg",
   "tags": [
     "music",
     "romance",
@@ -728,7 +728,7 @@ let movies=[
 {
   "title": "Braveheart",
   "year": "1995",
-  "cover": "https://c1.ptpimg.me/view/222b1df9c4e031e9d501026425109b61a14baeb2/https://ptpimg.me/s1s9q8.jpg",
+  "cover": "https://ptpimg.me/s1s9q8.jpg",
   "tags": [
     "biography",
     "drama",
@@ -797,7 +797,7 @@ let movies=[
 {
   "title": "Jack-Jack Attack",
   "year": "2005",
-  "cover": "https://c2.ptpimg.me/view/330b455baca5ace8278952106528018d9617e322/https://ptpimg.me/e83c9z.jpg",
+  "cover": "https://ptpimg.me/e83c9z.jpg",
   "tags": [
     "animation",
     "comedy",
@@ -859,7 +859,7 @@ let movies=[
 {
   "title": "What Dreams May Come",
   "year": "1998",
-  "cover": "https://c1.ptpimg.me/view/48c8614a7a8a3e474c7956188a961291c829b628/https://ptpimg.me/92dx94.jpg",
+  "cover": "https://ptpimg.me/92dx94.jpg",
   "tags": [
     "fantasy",
     "romance",
@@ -930,7 +930,7 @@ let movies=[
 {
   "title": "Patch Adams",
   "year": "1998",
-  "cover": "https://c2.ptpimg.me/view/11270909d36ac0dcc6b7f83d18a0f69a049457eb/https://ptpimg.me/1ar9xn.jpg",
+  "cover": "https://ptpimg.me/1ar9xn.jpg",
   "tags": [
     "comedy",
     "drama",
@@ -999,7 +999,7 @@ let movies=[
 {
   "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
   "year": "2011",
-  "cover": "https://c2.ptpimg.me/view/a193f8f9e58aa7f1df7ea001f74592bd5a5158ed/https://ptpimg.me/m107r2.jpg",
+  "cover": "https://ptpimg.me/m107r2.jpg",
   "tags": [
     "short",
     "action",
@@ -1057,7 +1057,7 @@ let movies=[
 {
   "title": "Pitch Perfect",
   "year": "2012",
-  "cover": "https://c1.ptpimg.me/view/8d916cf686de2006b174e0be7aa09c2114c1f6da/https://ptpimg.me/sj1ox3.jpg",
+  "cover": "https://ptpimg.me/sj1ox3.jpg",
   "tags": [
     "music",
     "romance",
@@ -1125,7 +1125,7 @@ let movies=[
 {
   "title": "Jack Reacher",
   "year": "2012",
-  "cover": "https://c1.ptpimg.me/view/bc0d39e7be70fafb58adaac0c506fd6b3f31d940/https://ptpimg.me/iz94tu.jpg",
+  "cover": "https://ptpimg.me/iz94tu.jpg",
   "tags": [
     "action",
     "thriller"
@@ -1192,7 +1192,7 @@ let movies=[
 {
   "title": "Draft Day",
   "year": "2014",
-  "cover": "https://c2.ptpimg.me/view/5df23fddde6f6911aef7e758d4773163fa600c1a/https://ptpimg.me/2l4100.jpg",
+  "cover": "https://ptpimg.me/2l4100.jpg",
   "tags": [
     "drama",
     "sport",
@@ -1262,7 +1262,7 @@ let movies=[
 {
   "title": "Edge of Tomorrow",
   "year": "2014",
-  "cover": "https://c1.ptpimg.me/view/ffe5d74227a2c13cd3fd041d5266b3c56affdfe3/https://ptpimg.me/fy24k6.jpg",
+  "cover": "https://ptpimg.me/fy24k6.jpg",
   "tags": [
     "sci.fi",
     "action",
@@ -1331,7 +1331,7 @@ let movies=[
 {
   "title": "Calvary",
   "year": "2014",
-  "cover": "https://c2.ptpimg.me/view/e0264a67b7c402e448dad72b6097c266f5a664da/https://ptpimg.me/szbo7l.jpg",
+  "cover": "https://ptpimg.me/szbo7l.jpg",
   "tags": [
     "drama",
     "mystery"
@@ -1398,7 +1398,7 @@ let movies=[
 {
   "title": "Piper",
   "year": "2016",
-  "cover": "https://c1.ptpimg.me/view/29886891647039e795832301579df45c08085fc4/https://ptpimg.me/fy5k6n.jpg",
+  "cover": "https://ptpimg.me/fy5k6n.jpg",
   "tags": [
     "animation",
     "short",
@@ -1441,7 +1441,7 @@ let movies=[
 {
   "title": "Sully",
   "year": "2016",
-  "cover": "https://c1.ptpimg.me/view/6a5f85b98e1d56f73b4c03c65057d5ed4c8a6700/https://ptpimg.me/v1jba8.jpg",
+  "cover": "https://ptpimg.me/v1jba8.jpg",
   "tags": [
     "drama",
     "biography"
@@ -1508,7 +1508,7 @@ let movies=[
 {
   "title": "Miss Sloane",
   "year": "2016",
-  "cover": "https://c1.ptpimg.me/view/b5acd1ef3f17e9931f4893fc0bf279d561484d25/https://ptpimg.me/dojsdo.jpg",
+  "cover": "https://ptpimg.me/dojsdo.jpg",
   "tags": [
     "drama"
   ],
@@ -1574,7 +1574,7 @@ let movies=[
 {
   "title": "Deadpool 2",
   "year": "2018",
-  "cover": "https://c1.ptpimg.me/view/8692c50a37439c14f1e8a568efa363112ed25d40/https://ptpimg.me/yfc0k4.jpg",
+  "cover": "https://ptpimg.me/yfc0k4.jpg",
   "tags": [
     "comedy",
     "action",
@@ -1644,7 +1644,7 @@ let movies=[
 {
   "title": "Empire Records",
   "year": "1995",
-  "cover": "https://c2.ptpimg.me/view/e8ff84cef3109616f4fa14633721b7536cb62ce3/https://ptpimg.me/3a73c1.jpg",
+  "cover": "https://ptpimg.me/3a73c1.jpg",
   "tags": [
     "comedy",
     "drama",
@@ -1713,7 +1713,7 @@ let movies=[
 {
   "title": "Salmon Fishing in the Yemen",
   "year": "2011",
-  "cover": "https://c2.ptpimg.me/view/e006308f4b314b1fc66e82a2cddd61ac300880f3/https://ptpimg.me/3gie96.jpg",
+  "cover": "https://ptpimg.me/3gie96.jpg",
   "tags": [
     "comedy",
     "drama",
@@ -1781,7 +1781,7 @@ let movies=[
 {
   "title": "Hacksaw Ridge",
   "year": "2016",
-  "cover": "https://c1.ptpimg.me/view/2a364690c8d819a055fff7b45cc2fbc63cd73bed/https://ptpimg.me/0supws.jpg",
+  "cover": "https://ptpimg.me/0supws.jpg",
   "tags": [
     "drama",
     "war",
@@ -1853,7 +1853,7 @@ let movies=[
 {
   "title": "Coco",
   "year": "2017",
-  "cover": "https://c1.ptpimg.me/view/b5c35522922bab3a81349a9484728dbe7f6fb149/https://ptpimg.me/07chuh.jpg",
+  "cover": "https://ptpimg.me/07chuh.jpg",
   "tags": [
     "adventure",
     "animation",
@@ -1926,7 +1926,7 @@ let movies=[
 {
   "title": "Oldeuboi AKA Oldboy",
   "year": "2003",
-  "cover": "https://c1.ptpimg.me/view/2eb98aba623921c4a13788bfcf645b5fcf5ef9ef/https://ptpimg.me/23byh5.jpg",
+  "cover": "https://ptpimg.me/23byh5.jpg",
   "tags": [
     "thriller",
     "mystery",
@@ -2000,7 +2000,7 @@ let movies=[
 {
   "title": "Marvel One-Shot: The Consultant",
   "year": "2011",
-  "cover": "https://c2.ptpimg.me/view/76baea601973db9683425528f4369b81f054a4ea/https://ptpimg.me/1rtq4o.jpg",
+  "cover": "https://ptpimg.me/1rtq4o.jpg",
   "tags": [
     "sci.fi",
     "short"
@@ -2057,7 +2057,7 @@ let movies=[
 {
   "title": "John Carter",
   "year": "2012",
-  "cover": "https://c2.ptpimg.me/view/c36017b859f1cd4283ec03786d7d0e494e4c49fb/https://ptpimg.me/1k3p4h.jpg",
+  "cover": "https://ptpimg.me/1k3p4h.jpg",
   "tags": [
     "action",
     "adventure",
@@ -2126,7 +2126,7 @@ let movies=[
 {
   "title": "The Illusionist",
   "year": "2006",
-  "cover": "https://c1.ptpimg.me/view/24aa12d70b88ceaae06c5f4dbf1bfbbf6d0cf280/https://ptpimg.me/7w1zs2.jpg",
+  "cover": "https://ptpimg.me/7w1zs2.jpg",
   "tags": [
     "mystery",
     "thriller",
@@ -2199,7 +2199,7 @@ let movies=[
 {
   "title": "The Curious Case of Benjamin Button",
   "year": "2008",
-  "cover": "https://c1.ptpimg.me/view/640e1a4554ad9a36063103680178f51437e00923/https://ptpimg.me/n6595e.jpg",
+  "cover": "https://ptpimg.me/n6595e.jpg",
   "tags": [
     "drama",
     "fantasy",
@@ -2267,7 +2267,7 @@ let movies=[
 {
   "title": "We Are Marshall",
   "year": "2006",
-  "cover": "https://c2.ptpimg.me/view/5ca2a1ccd2431bf263bd8235d7d407023bf17427/https://ptpimg.me/pw99l9.jpg",
+  "cover": "https://ptpimg.me/pw99l9.jpg",
   "tags": [
     "drama",
     "sport"
@@ -2334,7 +2334,7 @@ let movies=[
 {
   "title": "The Bourne Legacy",
   "year": "2012",
-  "cover": "https://c1.ptpimg.me/view/b60a00569104378d93315f15568af395eff26bd1/https://ptpimg.me/94z1v7.jpg",
+  "cover": "https://ptpimg.me/94z1v7.jpg",
   "tags": [
     "action",
     "adventure",
@@ -2402,7 +2402,7 @@ let movies=[
 {
   "title": "Odd Thomas",
   "year": "2013",
-  "cover": "https://c1.ptpimg.me/view/4da3fe1b4f88ca4e1a96e0c98d0e26b21c6b0c35/https://ptpimg.me/8if54q.jpg",
+  "cover": "https://ptpimg.me/8if54q.jpg",
   "tags": [
     "comedy",
     "fantasy",
@@ -2473,7 +2473,7 @@ let movies=[
 {
   "title": "The Big Short",
   "year": "2015",
-  "cover": "https://c2.ptpimg.me/view/c9fb04052b4dde4f359ef44a4a410252eac6a62d/https://ptpimg.me/eq497l.jpg",
+  "cover": "https://ptpimg.me/eq497l.jpg",
   "tags": [
     "drama",
     "biography",
@@ -2542,7 +2542,7 @@ let movies=[
 {
   "title": "Klaus",
   "year": "2019",
-  "cover": "https://c1.ptpimg.me/view/84c2f6c5de0e60feaf775769105acb859fdffc9a/https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+  "cover": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
   "tags": [
     "family",
     "adventure",
@@ -2612,7 +2612,7 @@ let movies=[
 {
   "title": "The Last Samurai",
   "year": "2003",
-  "cover": "https://c2.ptpimg.me/view/a15727b97e9424652af17c279114dd7d539ca8ff/https://ptpimg.me/994b27.jpg",
+  "cover": "https://ptpimg.me/994b27.jpg",
   "tags": [
     "war",
     "action",
@@ -2683,7 +2683,7 @@ let movies=[
 {
   "title": "The Chronicles of Riddick",
   "year": "2004",
-  "cover": "https://c2.ptpimg.me/view/5d95b185499d5c8eab4ae769afe340edeff6b2a7/https://ptpimg.me/05ee67.jpg",
+  "cover": "https://ptpimg.me/05ee67.jpg",
   "tags": [
     "action",
     "sci.fi",
@@ -2752,7 +2752,7 @@ let movies=[
 {
   "title": "Vanilla Sky",
   "year": "2001",
-  "cover": "https://c2.ptpimg.me/view/ad54400b94e835e886b6e9ac02e4a0c1b5605636/https://ptpimg.me/y5g2me.jpg",
+  "cover": "https://ptpimg.me/y5g2me.jpg",
   "tags": [
     "mystery",
     "romance",
@@ -2824,7 +2824,7 @@ let movies=[
 {
   "title": "The Man Who Knew Too Little",
   "year": "1997",
-  "cover": "https://c2.ptpimg.me/view/a01b51846ccaaf7fce37209720485a6b144735a5/https://ptpimg.me/38j0th.jpg",
+  "cover": "https://ptpimg.me/38j0th.jpg",
   "tags": [
     "comedy",
     "action",
@@ -2889,7 +2889,7 @@ let movies=[
 {
   "title": "Bloodshot",
   "year": "2020",
-  "cover": "https://c1.ptpimg.me/view/dfa2c1075e9b4ebc96dbf3fa19fbf53ad092cebd/https://ptpimg.me/c06wgh.jpg",
+  "cover": "https://ptpimg.me/c06wgh.jpg",
   "tags": [
     "action",
     "drama",
@@ -2957,7 +2957,7 @@ let movies=[
 {
   "title": "V For Vendetta",
   "year": "2005",
-  "cover": "https://c1.ptpimg.me/view/d51de703d5951354dfd36767e98b1e430a4b1ec3/https://ptpimg.me/ob9e50.jpg",
+  "cover": "https://ptpimg.me/ob9e50.jpg",
   "tags": [
     "action",
     "thriller",
@@ -3027,7 +3027,7 @@ let movies=[
 {
   "title": "12 Angry Men",
   "year": "1957",
-  "cover": "https://c1.ptpimg.me/view/42eaa83147721e5272f8cd2ac3ab8fd64a546e75/https://ptpimg.me/n1hb9v.jpg",
+  "cover": "https://ptpimg.me/n1hb9v.jpg",
   "tags": [
     "drama",
     "crime",
@@ -3099,7 +3099,7 @@ let movies=[
 {
   "title": "No Country for Old Men",
   "year": "2007",
-  "cover": "https://c2.ptpimg.me/view/1a25821a06f9df5b220dff436fbeaac5d86a589a/https://ptpimg.me/w59i4o.jpg",
+  "cover": "https://ptpimg.me/w59i4o.jpg",
   "tags": [
     "thriller",
     "drama",
@@ -3169,7 +3169,7 @@ let movies=[
 {
   "title": "Doomsday",
   "year": "2008",
-  "cover": "https://c1.ptpimg.me/view/8270d1cd722db9310d895deb651a4105778aafc7/https://ptpimg.me/079k4o.jpg",
+  "cover": "https://ptpimg.me/079k4o.jpg",
   "tags": [
     "action",
     "thriller",
@@ -3237,7 +3237,7 @@ let movies=[
 {
   "title": "Pitch Black",
   "year": "2000",
-  "cover": "https://c2.ptpimg.me/view/ec1793371e37814374ab15d27225bb4f859bbea1/https://ptpimg.me/k05284.jpg",
+  "cover": "https://ptpimg.me/k05284.jpg",
   "tags": [
     "horror",
     "sci.fi",
@@ -3308,7 +3308,7 @@ let movies=[
 {
   "title": "The Truman Show",
   "year": "1998",
-  "cover": "https://c2.ptpimg.me/view/a366b83e9929b823b7ef5dba994100049395cd85/https://ptpimg.me/29w62w.jpg",
+  "cover": "https://ptpimg.me/29w62w.jpg",
   "tags": [
     "drama",
     "comedy"
@@ -3375,7 +3375,7 @@ let movies=[
 {
   "title": "Good Will Hunting",
   "year": "1997",
-  "cover": "https://c1.ptpimg.me/view/0774e132d7f92c32cee72a89a7ea63050cfdb113/https://ptpimg.me/lvolkz.jpg",
+  "cover": "https://ptpimg.me/lvolkz.jpg",
   "tags": [
     "drama",
     "romance",
@@ -3444,7 +3444,7 @@ let movies=[
 {
   "title": "The Bourne Supremacy",
   "year": "2004",
-  "cover": "https://c2.ptpimg.me/view/cda234afac3f259ac9525b1da24210e12ee43277/https://ptpimg.me/3uifqh.jpg",
+  "cover": "https://ptpimg.me/3uifqh.jpg",
   "tags": [
     "action",
     "mystery",
@@ -3513,7 +3513,7 @@ let movies=[
 {
   "title": "The Bourne Ultimatum",
   "year": "2007",
-  "cover": "https://c2.ptpimg.me/view/5464a97e38a4f3c165f6535976cf292c3d6ea084/https://ptpimg.me/foi579.jpg",
+  "cover": "https://ptpimg.me/foi579.jpg",
   "tags": [
     "action",
     "mystery",
@@ -3582,7 +3582,7 @@ let movies=[
 {
   "title": "Casanova",
   "year": "2005",
-  "cover": "https://c2.ptpimg.me/view/e69a0df28ba45e8a23664ff572ec1593ec59fc3c/https://ptpimg.me/27ww87.jpg",
+  "cover": "https://ptpimg.me/27ww87.jpg",
   "tags": [
     "comedy",
     "drama",
@@ -3651,7 +3651,7 @@ let movies=[
 {
   "title": "Geri's Game",
   "year": "1997",
-  "cover": "https://c1.ptpimg.me/view/002d795054cc8f4596234b54e387e27444092edf/https://ptpimg.me/nxo2lq.jpg",
+  "cover": "https://ptpimg.me/nxo2lq.jpg",
   "tags": [
     "short",
     "animation",
@@ -3698,7 +3698,7 @@ let movies=[
 {
   "title": "Finding Nemo",
   "year": "2003",
-  "cover": "https://c1.ptpimg.me/view/688873ff579de786733d0109a0b67e69bfdb0a58/https://ptpimg.me/tnw425.jpg",
+  "cover": "https://ptpimg.me/tnw425.jpg",
   "tags": [
     "animation",
     "family",
@@ -3769,7 +3769,7 @@ let movies=[
 {
   "title": "Serenity",
   "year": "2005",
-  "cover": "https://c1.ptpimg.me/view/b8e4128a490603e4e62503ea75c772a063da0394/https://ptpimg.me/be55ye.jpg",
+  "cover": "https://ptpimg.me/be55ye.jpg",
   "tags": [
     "sci.fi",
     "action",
@@ -3840,7 +3840,7 @@ let movies=[
 {
   "title": "The Count of Monte Cristo",
   "year": "2002",
-  "cover": "https://c1.ptpimg.me/view/2c2bb6e929aa00b497e75c5ee5b6325d12944a72/https://ptpimg.me/gpm822.jpg",
+  "cover": "https://ptpimg.me/gpm822.jpg",
   "tags": [
     "adventure",
     "action",
@@ -3911,7 +3911,7 @@ let movies=[
 {
   "title": "Jumper",
   "year": "2008",
-  "cover": "https://c1.ptpimg.me/view/455eadf4849719bb06234e370d33bcc0efec7fdb/https://ptpimg.me/19v945.jpg",
+  "cover": "https://ptpimg.me/19v945.jpg",
   "tags": [
     "adventure",
     "sci.fi",
@@ -3980,7 +3980,7 @@ let movies=[
 {
   "title": "Mr. Magorium's Wonder Emporium",
   "year": "2007",
-  "cover": "https://c2.ptpimg.me/view/3fc41567f81741b1565e7a3712e8eb183f17ba26/https://ptpimg.me/x3ze9j.jpg",
+  "cover": "https://ptpimg.me/x3ze9j.jpg",
   "tags": [
     "comedy",
     "family",
@@ -4048,7 +4048,7 @@ let movies=[
 {
   "title": "Titan A.E.",
   "year": "2000",
-  "cover": "https://c1.ptpimg.me/view/455ad04371ab820a38c35effd97f17194a847830/https://ptpimg.me/nfp582.jpg",
+  "cover": "https://ptpimg.me/nfp582.jpg",
   "tags": [
     "adventure",
     "animation",
@@ -4119,7 +4119,7 @@ let movies=[
 {
   "title": "The World's Fastest Indian",
   "year": "2005",
-  "cover": "https://c2.ptpimg.me/view/52452768e60dd410b64422a12118d516d1fe56af/https://ptpimg.me/go44c5.jpg",
+  "cover": "https://ptpimg.me/go44c5.jpg",
   "tags": [
     "biography",
     "drama",
@@ -4187,7 +4187,7 @@ let movies=[
 {
   "title": "Kingdom of Heaven",
   "year": "2005",
-  "cover": "https://c1.ptpimg.me/view/bf407e9d1026c1b49573606231024c2a1bb67efb/https://ptpimg.me/czxeg1.jpg",
+  "cover": "https://ptpimg.me/czxeg1.jpg",
   "tags": [
     "adventure",
     "action",
@@ -4257,7 +4257,7 @@ let movies=[
 {
   "title": "Happy Feet",
   "year": "2006",
-  "cover": "https://c1.ptpimg.me/view/d6ada8b3965896366d70d5182be3c87570e8de8e/https://ptpimg.me/q7b29s.jpg",
+  "cover": "https://ptpimg.me/q7b29s.jpg",
   "tags": [
     "adventure",
     "animation",
@@ -4331,7 +4331,7 @@ let movies=[
 {
   "title": "The Core",
   "year": "2003",
-  "cover": "https://c1.ptpimg.me/view/bae908755302570cf19d6c3773349cb7b9bbd869/https://ptpimg.me/d5988o.jpg",
+  "cover": "https://ptpimg.me/d5988o.jpg",
   "tags": [
     "sci.fi",
     "action",
@@ -4400,7 +4400,7 @@ let movies=[
 {
   "title": "Children of Dune",
   "year": "2003",
-  "cover": "https://c2.ptpimg.me/view/9708dd38d668231f0f991d52e696d2845b209e2c/https://ptpimg.me/13r51c.jpg",
+  "cover": "https://ptpimg.me/13r51c.jpg",
   "tags": [
     "sci.fi",
     "drama",
@@ -4461,7 +4461,7 @@ let movies=[
 {
   "title": "Life as a House",
   "year": "2001",
-  "cover": "https://c1.ptpimg.me/view/df639e2ea464d8372b671826296cb43b4aa0f343/https://ptpimg.me/76s3ug.jpg",
+  "cover": "https://ptpimg.me/76s3ug.jpg",
   "tags": [
     "drama"
   ],
@@ -4527,7 +4527,7 @@ let movies=[
 {
   "title": "Dave",
   "year": "1993",
-  "cover": "https://c2.ptpimg.me/view/a46c41214928a05989456b3049b7eb537107bfee/https://ptpimg.me/y2c55l.jpg",
+  "cover": "https://ptpimg.me/y2c55l.jpg",
   "tags": [
     "comedy",
     "romance",
@@ -4596,7 +4596,7 @@ let movies=[
 {
   "title": "First Knight",
   "year": "1995",
-  "cover": "https://c1.ptpimg.me/view/d6b8731a307838a8fba710d19f417741107edb42/https://ptpimg.me/31eq21.jpg",
+  "cover": "https://ptpimg.me/31eq21.jpg",
   "tags": [
     "romance",
     "action",
@@ -4666,7 +4666,7 @@ let movies=[
 {
   "title": "The A-Team",
   "year": "2010",
-  "cover": "https://c2.ptpimg.me/view/370576743637e8e813949aa71f3cd507c956fb4d/https://ptpimg.me/ym4f2b.jpg",
+  "cover": "https://ptpimg.me/ym4f2b.jpg",
   "tags": [
     "action",
     "adventure",
@@ -4734,7 +4734,7 @@ let movies=[
 {
   "title": "For Love of the Game",
   "year": "1999",
-  "cover": "https://c2.ptpimg.me/view/529a26252cb8df5aeee52af5fd81713c56cd4bf6/https://ptpimg.me/7xg322.jpg",
+  "cover": "https://ptpimg.me/7xg322.jpg",
   "tags": [
     "drama",
     "romance",
@@ -4803,7 +4803,7 @@ let movies=[
 {
   "title": "Beastly",
   "year": "2011",
-  "cover": "https://c1.ptpimg.me/view/6b236b8e6caa1120dd209a7f95bacd3dbd375a67/https://ptpimg.me/2vp2yb.jpg",
+  "cover": "https://ptpimg.me/2vp2yb.jpg",
   "tags": [
     "drama",
     "fantasy",
@@ -4872,7 +4872,7 @@ let movies=[
 {
   "title": "Green Lantern",
   "year": "2011",
-  "cover": "https://c2.ptpimg.me/view/a78cc465ad0ec895c36b9c34118c1d64b8f18219/https://ptpimg.me/9j7947.jpg",
+  "cover": "https://ptpimg.me/9j7947.jpg",
   "tags": [
     "action",
     "sci.fi",
@@ -4942,7 +4942,7 @@ let movies=[
 {
   "title": "Banana",
   "year": "2010",
-  "cover": "https://c1.ptpimg.me/view/02768eea316d572d7d018fe39f857520138e48fb/https://ptpimg.me/4p0a62.jpg",
+  "cover": "https://ptpimg.me/4p0a62.jpg",
   "tags": [
     "animation",
     "family",
@@ -4988,7 +4988,7 @@ let movies=[
 {
   "title": "Crime and Punishment in Suburbia",
   "year": "2000",
-  "cover": "https://c2.ptpimg.me/view/9bf1871649244bea2f212fed49a0b14c85b194b7/https://ptpimg.me/q5w8w0.jpg",
+  "cover": "https://ptpimg.me/q5w8w0.jpg",
   "tags": [
     "drama",
     "thriller"
@@ -5055,7 +5055,7 @@ let movies=[
 {
   "title": "Partysaurus Rex",
   "year": "2012",
-  "cover": "https://c2.ptpimg.me/view/7fa997bd88b3d1a9a49e49dfc5c1fcb6af85673f/https://ptpimg.me/tyiizb.jpg",
+  "cover": "https://ptpimg.me/tyiizb.jpg",
   "tags": [
     "short",
     "animation",
@@ -5117,7 +5117,7 @@ let movies=[
 {
   "title": "Ruby Sparks",
   "year": "2012",
-  "cover": "https://c2.ptpimg.me/view/5830ab9afd39e375c5572c2d18410b486c2ac6ef/https://ptpimg.me/0w9vn8.jpg",
+  "cover": "https://ptpimg.me/0w9vn8.jpg",
   "tags": [
     "drama",
     "fantasy",
@@ -5187,7 +5187,7 @@ let movies=[
 {
   "title": "Lincoln",
   "year": "2012",
-  "cover": "https://c1.ptpimg.me/view/689c75fab5fb90bfbc25959204263618656f08a3/https://ptpimg.me/k2sm45.jpg",
+  "cover": "https://ptpimg.me/k2sm45.jpg",
   "tags": [
     "history",
     "biography",
@@ -5256,7 +5256,7 @@ let movies=[
 {
   "title": "Escape Plan",
   "year": "2013",
-  "cover": "https://c2.ptpimg.me/view/532b70d5fb184f39f72065428933e78b1dd0a185/https://ptpimg.me/545vus.jpg",
+  "cover": "https://ptpimg.me/545vus.jpg",
   "tags": [
     "action",
     "thriller"
@@ -5323,7 +5323,7 @@ let movies=[
 {
   "title": "Maleficent",
   "year": "2014",
-  "cover": "https://c1.ptpimg.me/view/f75c491f1ecf5a8b16b824fb90dbfafda486ef0f/https://ptpimg.me/184o1b.jpg",
+  "cover": "https://ptpimg.me/184o1b.jpg",
   "tags": [
     "fantasy",
     "family",
@@ -5393,7 +5393,7 @@ let movies=[
 {
   "title": "The Fault in Our Stars",
   "year": "2014",
-  "cover": "https://c2.ptpimg.me/view/c528d6529fee4494981b39cd09b6ec4aaddf2694/https://ptpimg.me/xx9396.jpg",
+  "cover": "https://ptpimg.me/xx9396.jpg",
   "tags": [
     "drama",
     "romance"
@@ -5460,7 +5460,7 @@ let movies=[
 {
   "title": "John Wick",
   "year": "2014",
-  "cover": "https://c1.ptpimg.me/view/63419dd053ec4301adb99923ff25b1b7a656128e/https://ptpimg.me/axr3ra.jpg",
+  "cover": "https://ptpimg.me/axr3ra.jpg",
   "tags": [
     "action",
     "thriller",
@@ -5534,7 +5534,7 @@ let movies=[
 {
   "title": "Big Hero 6",
   "year": "2014",
-  "cover": "https://c2.ptpimg.me/view/37547dcfcf8668a615cc5d3b0684ffc7a577ac2a/https://ptpimg.me/nhmrx8.jpg",
+  "cover": "https://ptpimg.me/nhmrx8.jpg",
   "tags": [
     "family",
     "animation",
@@ -5605,7 +5605,7 @@ let movies=[
 {
   "title": "The Water Diviner",
   "year": "2014",
-  "cover": "https://c1.ptpimg.me/view/4a9388965f0221babc0db569b243dabd12504d13/https://ptpimg.me/b8l7n2.jpg",
+  "cover": "https://ptpimg.me/b8l7n2.jpg",
   "tags": [
     "drama",
     "war",
@@ -5674,7 +5674,7 @@ let movies=[
 {
   "title": "The Martian",
   "year": "2015",
-  "cover": "https://c1.ptpimg.me/view/6b20dfecf58e70d7aedefc9a44263da6688d94be/https://ptpimg.me/7f66e5.jpg",
+  "cover": "https://ptpimg.me/7f66e5.jpg",
   "tags": [
     "sci.fi",
     "adventure",
@@ -5742,7 +5742,7 @@ let movies=[
 {
   "title": "He Never Died",
   "year": "2015",
-  "cover": "https://c1.ptpimg.me/view/d6901b0c4d18ec0d9f6ba146e23b17219d973b55/https://ptpimg.me/abvei7.jpg",
+  "cover": "https://ptpimg.me/abvei7.jpg",
   "tags": [
     "drama",
     "fantasy",
@@ -5812,7 +5812,7 @@ let movies=[
 {
   "title": "ARQ",
   "year": "2016",
-  "cover": "https://c2.ptpimg.me/view/54e47e292e8ed14a886b378259cc2ddb516c3ab0/https://ptpimg.me/5xjcy4.jpg",
+  "cover": "https://ptpimg.me/5xjcy4.jpg",
   "tags": [
     "action",
     "sci.fi",
@@ -5871,7 +5871,7 @@ let movies=[
 {
   "title": "The Accountant",
   "year": "2016",
-  "cover": "https://c2.ptpimg.me/view/5290e106c19ed7f6b178ed540678cdae4bd7d2cc/https://ptpimg.me/11y41f.jpg",
+  "cover": "https://ptpimg.me/11y41f.jpg",
   "tags": [
     "action",
     "drama",
@@ -5940,7 +5940,7 @@ let movies=[
 {
   "title": "Upgrade",
   "year": "2018",
-  "cover": "https://c1.ptpimg.me/view/82742fec1e84923d6c69cada5788bb5f7a1a6dd7/https://ptpimg.me/1iw0h7.jpg",
+  "cover": "https://ptpimg.me/1iw0h7.jpg",
   "tags": [
     "sci.fi",
     "action",
@@ -6010,7 +6010,7 @@ let movies=[
 {
   "title": "Cube 2: Hypercube",
   "year": "2002",
-  "cover": "https://c1.ptpimg.me/view/0cb9fd0d2f507cc5ddbc45f62c4f4bc8b57ff6eb/https://ptpimg.me/mk9l08.jpg",
+  "cover": "https://ptpimg.me/mk9l08.jpg",
   "tags": [
     "sci.fi",
     "thriller",
@@ -6074,7 +6074,7 @@ let movies=[
 {
   "title": "Notting Hill",
   "year": "1999",
-  "cover": "https://c2.ptpimg.me/view/3ab7a6e616086f6c689024a284bd76084db750dc/https://ptpimg.me/7b984o.jpg",
+  "cover": "https://ptpimg.me/7b984o.jpg",
   "tags": [
     "romance",
     "comedy",
@@ -6142,7 +6142,7 @@ let movies=[
 {
   "title": "Chaos Theory",
   "year": "2007",
-  "cover": "https://c1.ptpimg.me/view/d78e7eebc685dc5baa6b41226c14b704796bd751/https://ptpimg.me/gc1yld.jpg",
+  "cover": "https://ptpimg.me/gc1yld.jpg",
   "tags": [
     "comedy",
     "drama",
@@ -6210,7 +6210,7 @@ let movies=[
 {
   "title": "Soul",
   "year": "2020",
-  "cover": "https://c1.ptpimg.me/view/0e01f6a88b68b0f1366ffe0f5264b2ac2b88476a/https://ptpimg.me/f0e0j7.jpg",
+  "cover": "https://ptpimg.me/f0e0j7.jpg",
   "tags": [
     "animation",
     "music",
@@ -6284,7 +6284,7 @@ let movies=[
 {
   "title": "Shooter",
   "year": "2007",
-  "cover": "https://c1.ptpimg.me/view/20d1d55d606a66786793bb9b1958a19b160898f8/https://ptpimg.me/j07rb9.jpg",
+  "cover": "https://ptpimg.me/j07rb9.jpg",
   "tags": [
     "action",
     "thriller",
@@ -6352,7 +6352,7 @@ let movies=[
 {
   "title": "Charlie Bartlett",
   "year": "2007",
-  "cover": "https://c1.ptpimg.me/view/2322b869ca0d8edcf676c81160c521a9ffaceae7/https://ptpimg.me/jzmf4b.jpg",
+  "cover": "https://ptpimg.me/jzmf4b.jpg",
   "tags": [
     "comedy",
     "drama",
@@ -6420,7 +6420,7 @@ let movies=[
 {
   "title": "Next",
   "year": "2007",
-  "cover": "https://c2.ptpimg.me/view/ed64dd4e8d0dc456a52c293152f52dfaaa31e55f/https://ptpimg.me/0f17ih.jpg",
+  "cover": "https://ptpimg.me/0f17ih.jpg",
   "tags": [
     "action",
     "thriller",
@@ -6490,7 +6490,7 @@ let movies=[
 {
   "title": "Waiting...",
   "year": "2005",
-  "cover": "https://c2.ptpimg.me/view/9653957ac7e4d814c70914352777fc250a4bc734/https://ptpimg.me/n2qw69.jpg",
+  "cover": "https://ptpimg.me/n2qw69.jpg",
   "tags": [
     "comedy",
     "palate.cleanser"
@@ -6557,7 +6557,7 @@ let movies=[
 {
   "title": "A Man Apart",
   "year": "2003",
-  "cover": "https://c1.ptpimg.me/view/f0404ddcd2e28de7e510754133fcc67e94d1ed51/https://ptpimg.me/8ne7j4.jpg",
+  "cover": "https://ptpimg.me/8ne7j4.jpg",
   "tags": [
     "action",
     "crime",
@@ -6626,7 +6626,7 @@ let movies=[
 {
   "title": "La Doublure AKA The Valet",
   "year": "2006",
-  "cover": "https://c1.ptpimg.me/view/b6ae389a9308c16e7e18a80acc9dbdb5fe0055b1/https://ptpimg.me/ozjavb.jpg",
+  "cover": "https://ptpimg.me/ozjavb.jpg",
   "tags": [
     "comedy",
     "drama",
@@ -6695,7 +6695,7 @@ let movies=[
 {
   "title": "Terry Pratchett's Going Postal",
   "year": "2010",
-  "cover": "https://c2.ptpimg.me/view/aeb864c704dbb20a17d037addb8e997fba2fd680/https://ptpimg.me/e0iq05.jpg",
+  "cover": "https://ptpimg.me/e0iq05.jpg",
   "tags": [
     "fantasy",
     "comedy",
@@ -6755,7 +6755,7 @@ let movies=[
 {
   "title": "In Your Eyes",
   "year": "2014",
-  "cover": "https://c1.ptpimg.me/view/253b40305c177a45ad573b26f93be05f43a5ca57/https://ptpimg.me/rrmih9.jpg",
+  "cover": "https://ptpimg.me/rrmih9.jpg",
   "tags": [
     "romance",
     "fantasy"
@@ -6817,7 +6817,7 @@ let movies=[
 {
   "title": "Ten Inch Hero",
   "year": "2007",
-  "cover": "https://c1.ptpimg.me/view/fb5bec5fc6ebbeed0f0daf0bd60121f108b5b1a1/https://ptpimg.me/x8953y.jpg",
+  "cover": "https://ptpimg.me/x8953y.jpg",
   "tags": [
     "comedy",
     "drama",
@@ -6875,7 +6875,7 @@ let movies=[
 {
   "title": "The Last Castle",
   "year": "2001",
-  "cover": "https://c1.ptpimg.me/view/b833fe9f30533c73a73cf3bb2e2469a8c1e3303c/https://ptpimg.me/o59d6r.jpg",
+  "cover": "https://ptpimg.me/o59d6r.jpg",
   "tags": [
     "action",
     "drama",
