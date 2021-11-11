@@ -6939,6 +6939,76 @@ let movies=[
   "certification": "USA:R",
   "youtube": "MHGJk2dMfa8",
   "runtime": "2h 11mn"
+},
+{
+  "title": "The Boat That Rocked AKA Pirate Radio",
+  "year": "2009",
+  "cover": "https://ptpimg.me/kyys92.jpg",
+  "tags": [
+    "music",
+    "comedy",
+    "drama",
+    "romance",
+    "british"
+  ],
+  "directors": [
+    "Richard Curtis"
+  ],
+  "topActors": [
+    {
+      "name": "Tom Sturridge",
+      "character": "Carl",
+      "headshot": "https://www.themoviedb.org/t/p/w300_and_h300_face/dm5GA0xwJwvPsAU6YBPCfyvvWSb.jpg"
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "The Count",
+      "headshot": "https://www.themoviedb.org/t/p/w300_and_h300_face/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+    },
+    {
+      "name": "Rhys Ifans",
+      "character": "Gavin",
+      "headshot": "https://www.themoviedb.org/t/p/w300_and_h300_face/g8EUs8r1ECh9plKtrxBparsxlZ1.jpg"
+    },
+    {
+      "name": "Bill Nighy",
+      "character": "Quentin",
+      "headshot": "https://www.themoviedb.org/t/p/w300_and_h300_face/acbigDOU1L1vMWAL3Wf0r8h8qLA.jpg"
+    }
+  ],
+  "synopsis": "A band of rogue DJs that captivated Britain, playing the music that defined a generation and standing up to a government that wanted classical music, and nothing else, on the airwaves.",
+  "ratings": [
+    {
+      "image": "https://passthepopcorn.me/static/common/ratings/x1_imdb.png",
+      "rating": "7.4 /  10\n(109,058 votes)",
+      "link": "https://www.imdb.com/title/tt1131729/"
+    },
+    {
+      "image": "https://a.ltrbxd.com/logos/letterboxd-mac-icon.png",
+      "rating": "3.46 /  5.0\n(23145 votes)",
+      "link": "https://letterboxd.com/film/the-boat-that-rocked/"
+    },
+    {
+      "image": "https://passthepopcorn.me/static/common/ratings/x2_metacritic.png",
+      "rating": "58 /  100",
+      "link": "https://www.metacritic.com/movie/pirate-radio?ftag=MCD-06-10aaa1c"
+    },
+    {
+      "image": "https://passthepopcorn.me/static/common/ratings/x3_tomatoes.png",
+      "rating": "61 /  100",
+      "link": "https://www.rottentomatoes.com/m/pirate_radio/"
+    }
+  ],
+  "planner": {
+    "rating": "65%",
+    "comment": "Rock'n'Roll and those who defied the British government who had banned it.",
+    "whyRecommend": "Mostly because it has a 'boats coming to the rescue' scene like Dunkirk, but none of the horror of war aspect.",
+    "recommendWeight": 86
+  },
+  "doesthedogdie": false,
+  "certification": "USA:R",
+  "youtube": "qX1SSiFWF-s",
+  "runtime": "2h 15mn"
 }
 ];
 
