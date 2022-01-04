@@ -3116,9 +3116,6 @@ let movies=[
 },
 {
   "title": "No Country for Old Men",
-  "cassie": {
-    "reacted":true
-  },
   "year": "2007",
   "cover": "https://ptpimg.me/w59i4o.jpg",
   "tags": [
