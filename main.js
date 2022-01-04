@@ -1,6 +1,9 @@
 let movies=[
 {
   "title": "The Adjustment Bureau",
+  "cassie": {
+    "reacted":true
+  },
   "year": "2011",
   "cover": "https://ptpimg.me/7q8xv4.jpg",
   "tags": [
@@ -390,6 +393,9 @@ let movies=[
 },
 {
   "title": "WALL·E",
+  "cassie": {
+    "reacted":true
+  },
   "year": "2008",
   "cover": "https://ptpimg.me/xe65t1.jpg",
   "tags": [
@@ -727,6 +733,9 @@ let movies=[
 },
 {
   "title": "Braveheart",
+  "cassie": {
+    "reacted":true
+  },
   "year": "1995",
   "cover": "https://ptpimg.me/s1s9q8.jpg",
   "tags": [
@@ -1852,6 +1861,9 @@ let movies=[
 },
 {
   "title": "Coco",
+  "cassie": {
+    "reacted":true
+  },
   "year": "2017",
   "cover": "https://ptpimg.me/07chuh.jpg",
   "tags": [
@@ -2198,6 +2210,9 @@ let movies=[
 },
 {
   "title": "The Curious Case of Benjamin Button",
+  "cassie": {
+    "reacted":true
+  },
   "year": "2008",
   "cover": "https://ptpimg.me/n6595e.jpg",
   "tags": [
@@ -2956,6 +2971,9 @@ let movies=[
 },
 {
   "title": "V For Vendetta",
+  "cassie": {
+    "reacted":true
+  },
   "year": "2005",
   "cover": "https://ptpimg.me/ob9e50.jpg",
   "tags": [
@@ -3098,6 +3116,9 @@ let movies=[
 },
 {
   "title": "No Country for Old Men",
+  "cassie": {
+    "reacted":true
+  },
   "year": "2007",
   "cover": "https://ptpimg.me/w59i4o.jpg",
   "tags": [
@@ -3307,6 +3328,9 @@ let movies=[
 },
 {
   "title": "The Truman Show",
+  "cassie": {
+    "reacted":true
+  },
   "year": "1998",
   "cover": "https://ptpimg.me/29w62w.jpg",
   "tags": [
@@ -3374,6 +3398,9 @@ let movies=[
 },
 {
   "title": "Good Will Hunting",
+  "cassie": {
+    "reacted":true
+  },
   "year": "1997",
   "cover": "https://ptpimg.me/lvolkz.jpg",
   "tags": [
@@ -3768,6 +3795,9 @@ let movies=[
 },
 {
   "title": "Serenity",
+  "cassie": {
+    "reacted":true
+  },
   "year": "2005",
   "cover": "https://ptpimg.me/be55ye.jpg",
   "tags": [
